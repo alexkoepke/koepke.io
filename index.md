@@ -1,5 +1,5 @@
 ## Welcome to Koepke.io
 
 ## Projects
-* [BooCroo Stickers](https://github.com/alexkoepke/boocroo)
-* [YFS Sticker Pack](https://github.com/alexkoepke/yfs-sticker-pack)
+* [BooCroo Stickers](/boocroo)
+* [YFS Sticker Pack](/yfs-sticker-pack)
